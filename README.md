@@ -4,7 +4,6 @@
 </p>
 
 ## Features
----
 
 - A simple yet beautifully architected solution for management of paged-style view controllers.
 - Dynamic loading of view controllers, allowing handling of high amounts of data without compromising memory.
@@ -19,7 +18,6 @@
 
 
 ## Usage
----
 
 Using **SwiftPages** in your project is very simple and straightforward. 
 
@@ -80,8 +78,7 @@ Finally, use the `initializeWithVCIDsArrayAndButtonTitlesArray` function with th
 swiftPagesView.initializeWithVCIDsArrayAndButtonTitlesArray(VCIDs, buttonTitlesArray: buttonTitles)
 ```
 
-<h3 align="center">Customisation</h3>
----
+## Customisation
 
 Once you have your `SwiftPages` instance you can customize the appearance of all item's using the class API's, to view the API list look for the `API's` Mark on the SwiftPages class. Below is a brief customization sample:
 ```swift
@@ -91,7 +88,6 @@ swiftPagesView.setAnimatedBarColor(UIColor.whiteColor())
 ```
 
 ## License
----
 
 The MIT License (MIT)
 
