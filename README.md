@@ -1,6 +1,4 @@
-<p align="center">
-  <img src ="https://github.com/GabrielAlva/SwiftPages/blob/master/Resources/SwiftPages%20Header%20Image.png"/>
-</p>
+
 <p align="center">
   <img src ="https://github.com/GabrielAlva/SwiftPages/blob/master/Resources/SwiftPagesSample.gif"/>
 </p>
@@ -21,15 +19,6 @@
 
 <h3 align="center">Installation</h3>
 ---
-
-### CocoaPods
-
-SwiftPages is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "SwiftPages"
-```
 
 ### Manual
 
@@ -117,7 +106,7 @@ You can find a full example on usage and customization on the Xcode project atta
 
 The MIT License (MIT)
 
-**Copyright (c) 2015 Andrii Kratik (kratik.matata1990@gmail.com
+**Copyright (c) 2015 Andrii Kratik (liming.matata2015@gmail.com
 )**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
