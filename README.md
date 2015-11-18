@@ -3,7 +3,7 @@
   <img src ="https://github.com/GabrielAlva/SwiftPages/blob/master/Resources/SwiftPagesSample.gif"/>
 </p>
 
-<h3 align="center">Features</h3>
+## Features
 ---
 
 - A simple yet beautifully architected solution for management of paged-style view controllers.
@@ -17,14 +17,8 @@
   <img src ="https://github.com/GabrielAlva/SwiftPages/blob/master/Resources/Swift%20Pages%20iPhone%20mockups.png"/>
 </p>
 
-<h3 align="center">Installation</h3>
----
 
-### Manual
-
-Just Include the SwiftPages.swift file found on the demo in your project, and you’re good to go!
-
-<h3 align="center">Usage</h3>
+## Usage
 ---
 
 Using **SwiftPages** in your project is very simple and straightforward. 
@@ -96,17 +90,12 @@ swiftPagesView.setButtonsTextColor(UIColor.whiteColor())
 swiftPagesView.setAnimatedBarColor(UIColor.whiteColor())
 ```
 
-<h3 align="center">Example</h3>
----
-
-You can find a full example on usage and customization on the Xcode project attached to this repository.
-
-<h3 align="center">License</h3>
+## License
 ---
 
 The MIT License (MIT)
 
-**Copyright (c) 2015 Andrii Kratik (liming.matata2015@gmail.com
+**Copyright (c) 2015 Li Ming (liming.matata2015@gmail.com
 )**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
